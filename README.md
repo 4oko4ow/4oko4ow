@@ -52,4 +52,4 @@ AI agent workflows - building systems where agents handle real tasks autonomousl
 - Collaborative builds and hackathon teams
 - Anything where shipping fast and building real things matters
 
-**Contact:** open an issue, or find me via my GitHub profile links.
+**Telegram:** [t.me/chocochow](https://t.me/chocochow)
