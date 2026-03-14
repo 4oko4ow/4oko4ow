@@ -53,3 +53,4 @@ AI agent workflows - building systems where agents handle real tasks autonomousl
 - Anything where shipping fast and building real things matters
 
 **Telegram:** [t.me/chocochow](https://t.me/chocochow)
+**X:** [x.com/4oko4ow](https://x.com/4oko4ow)
