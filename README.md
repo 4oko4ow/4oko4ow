@@ -1,34 +1,49 @@
-## Crypto-Native Product Builder (Solana)
+## About me
 
-I design and ship complete crypto-native systems — from architecture and on-chain integrations to functional user interfaces.
+Independent developer based in Bangkok. I build backend systems, automation pipelines, and Web3 products - focused on things that work in production and can generate real revenue.
 
----
-
-### What I Build
-
-- End-to-end Web3 products
-- Solana-integrated systems
-- DeFi & execution tooling
-- Automation frameworks
-- Subscription & monetization systems
-- Infrastructure-ready deployments
+I work end-to-end: system design, backend, on-chain integrations, deployment. I build fast and ship real things.
 
 ---
 
-### Capabilities
+## What I'm building
 
-- System architecture & product design
-- Backend systems & APIs
-- Web interfaces & client integrations
-- On-chain data & protocol interactions
-- Deployment & production setup
-
----
-
-### Focus
-
-I prioritize functional, monetizable systems over theoretical implementations.
+- AI agent workflows and automation systems
+- Backend services and APIs (Go, REST, event-driven)
+- Solana on-chain programs and DeFi tooling
+- Subscription and monetization infrastructure
+- Full product builds from architecture to deployment
 
 ---
 
-Open to crypto-native collaborations and system builds.
+## Tech stack
+
+**Languages:** Go, Rust, TypeScript, Python
+**Backend:** REST APIs, WebSockets, PostgreSQL, Redis, event-driven systems
+**Blockchain:** Solana, Anchor framework, on-chain data, protocol integrations
+**AI / Automation:** LLM-powered agents, workflow automation, prompt pipelines
+**Infra:** Linux, Docker, VPS deployments, CI/CD
+
+---
+
+## Selected projects
+
+**Seeker Node** - Roguelike idle RPG built for Solana Mobile (Saga/Seeker devices). Full game loop with on-chain integration, built and shipped for a hackathon.
+
+More in the repos below.
+
+---
+
+## Current focus
+
+AI agent workflows - building systems where agents handle real tasks autonomously, not just demos. Combining this with backend infrastructure and automation for practical, deployable products.
+
+---
+
+## Open to
+
+- Contract work: backend systems, Solana integrations, AI/automation pipelines
+- Collaborative builds and hackathon teams
+- Anything where shipping fast and building real things matters
+
+**Contact:** open an issue, or find me via my GitHub profile links.
