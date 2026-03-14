@@ -28,6 +28,10 @@ I've shipped MVPs, client products, and hackathon projects across Web3 and Web2.
 
 ## Selected projects
 
+**[Deliverty](https://github.com/4oko4ow/deliverty)** - Peer-to-peer delivery marketplace. Connect travelers with people who need packages delivered along the same route. Full-stack: Go backend, React frontend, Telegram bot, Docker + Traefik. [deliverty.co](https://deliverty.co)
+
+**[Startup Idea Graveyard](https://github.com/4oko4ow/startup-idea-graveyard)** - A catalogue of startup ideas that keep getting built and why they keep failing. Habit trackers, daily planners, finance apps - with data on how many times each has been posted on ProductHunt and IndieHackers. [Live](https://startup-idea-graveyard.vercel.app)
+
 **[Seeker Node](https://github.com/4oko-Tdd/solanaidle)** - Roguelike idle RPG built for Solana Mobile (Saga/Seeker devices). Full game loop with on-chain integration, wallet-native, built and shipped for a hackathon.
 
 **[Solana Pulse](https://github.com/4oko-Tdd/solana-pulse)** - Daily signal dashboard for the Solana ecosystem. Six metric cards covering network activity, DeFi momentum, fees, and protocol highlights - signal-first design, not another analytics dump. [Live demo](https://solanapulse.live)
