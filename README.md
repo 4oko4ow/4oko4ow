@@ -1,8 +1,8 @@
 ## About me
 
-Independent developer based in Bangkok. I build backend systems, automation pipelines, and Web3 products - focused on things that work in production and can generate real revenue.
+Independent developer based in Bangkok. I take products from idea to production - design, frontend, backend, on-chain integrations, deployment. Full cycle.
 
-I work end-to-end: system design, backend, on-chain integrations, deployment. I build fast and ship real things.
+I've shipped MVPs, client products, and hackathon projects across Web3 and Web2. Fast and focused on things that actually work.
 
 ---
 
@@ -48,7 +48,7 @@ AI agent workflows - building systems where agents handle real tasks autonomousl
 
 ## Open to
 
-- Contract work: backend systems, Solana integrations, AI/automation pipelines
+- Contract work: MVPs, full-stack products, Solana integrations, AI/automation pipelines
 - Collaborative builds and hackathon teams
 - Anything where shipping fast and building real things matters
 
