@@ -34,6 +34,12 @@ I work end-to-end: system design, backend, on-chain integrations, deployment. I 
 
 ---
 
+## Previous work
+
+Beyond crypto - I've shipped web2 products too: an e-commerce platform, a peer-to-peer delivery marketplace (think Airbnb for packages), and various backend systems for small businesses. Most are private client work.
+
+---
+
 ## Current focus
 
 AI agent workflows - building systems where agents handle real tasks autonomously, not just demos. Combining this with backend infrastructure and automation for practical, deployable products.
