@@ -28,9 +28,9 @@ I work end-to-end: system design, backend, on-chain integrations, deployment. I 
 
 ## Selected projects
 
-**Seeker Node** - Roguelike idle RPG built for Solana Mobile (Saga/Seeker devices). Full game loop with on-chain integration, built and shipped for a hackathon.
+**[Seeker Node](https://github.com/4oko-Tdd/solanaidle)** - Roguelike idle RPG built for Solana Mobile (Saga/Seeker devices). Full game loop with on-chain integration, wallet-native, built and shipped for a hackathon.
 
-More in the repos below.
+**[Solana Pulse](https://github.com/4oko-Tdd/solana-pulse)** - Daily signal dashboard for the Solana ecosystem. Six metric cards covering network activity, DeFi momentum, fees, and protocol highlights - signal-first design, not another analytics dump. [Live demo](https://solanapulse.live)
 
 ---
 
